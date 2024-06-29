@@ -1,0 +1,7 @@
+django 
+scrapy
+scrapy-djangoitem 
+django-phone-field 
+django-environ 
+word2number
+psycopg2-binary 
